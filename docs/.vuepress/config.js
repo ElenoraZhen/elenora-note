@@ -11,34 +11,12 @@ module.exports = {
             {
               text: '建網頁前',
               collapsible: true,
-              children: ['/note/readme.md', '/note/Readme0312.md'],
+              children: ['/note/', '/note/prework/'],
             },
             {
               text: '建立網頁',
               collapsible: true,
-              children: ['/note2/readme.md', '/note2/readme2.md'],
-            },
-            {
-              text: 'Github 及 Vercel 上架',
-              collapsible: true,
-              children: ['/note3/readme.md', '/note3/readme2.md'],
-            },
-            {
-              text: '最後的最後!',
-              collapsible: true,
-              children: ['/note4/readme.md'],
-            },
-          ],
-          '/note2/': [
-            {
-              text: '建網頁前',
-              collapsible: true,
-              children: ['/note/readme.md', '/note/Readme0312.md'],
-            },
-            {
-              text: '建立網頁',
-              collapsible: true,
-              children: ['/note2/readme.md', '/note2/readme2.md'],
+              children: ['/note/build-web/', '/note/build-web/note.md'],
             },
             {
               text: 'Github 及 Vercel 上架',
