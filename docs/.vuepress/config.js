@@ -29,6 +29,11 @@ module.exports = {
               children: ['/note/note3-1/','/note/note3-1/readme2.md', '/note/note3-1/readme3.md','/note/note3-1/readme4.md'],
             },
             {
+              text: '實作 profile card 筆記',
+              collapsible: true,
+              children: ['/note/note3-2/'],
+            },
+            {
               text: '最後的最後!',
               collapsible: true,
               children: ['/note/note4/'],
