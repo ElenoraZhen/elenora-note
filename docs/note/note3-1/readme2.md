@@ -1,6 +1,6 @@
-## HTML(超文本標記語言)
+# HTML(超文本標記語言)
 
-# 基本介紹
+## 基本介紹
 
 Ⅰ. 英文全名:Hypertext Markup Language
 
@@ -15,7 +15,7 @@
 Ⅵ. 下載下來的檔案可以用 notepad 打開也可以用 vs code 打開!!
 
 
-# 語言架構
+## 語言架構
 
 Ⅰ. 語言最上方(第一行)習慣標示 <! DOCTYPE html>
 
